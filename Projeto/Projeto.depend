@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1597751253 source:c:\users\nerdd\onedrive\desktop\escola\1ºano\programaçãoi\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"constantes.h"
+	"estruturas.h"
+
+1597252694 c:\users\nerdd\onedrive\desktop\escola\1ºano\programaçãoi\projeto\menus.h
+
+1594646975 c:\users\nerdd\onedrive\desktop\escola\1ºano\programaçãoi\projeto\funcoes_auxiliares.h
+	"constantes.h"
+
+1594646975 c:\users\nerdd\onedrive\desktop\escola\1ºano\programaçãoi\projeto\constantes.h
+
+1597751253 source:c:\users\nerdd\onedrive\desktop\escola\1ºano\programaçãoi\projeto\menus.c
+	<stdio.h>
+	<stdlib.h>
+	"menus.h"
+	"funcoes_auxiliares.h"
+	"funcoes_estudantes.h"
+	"estruturas.h"
+
+1598038624 source:c:\users\nerdd\onedrive\desktop\escola\1ºano\programaçãoi\projeto\funcoes_estudantes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<ctype.h>
+	"constantes.h"
+	"funcoes_auxiliares.h"
+	"estruturas.h"
+	"menus.h"
+
+1594657423 c:\users\nerdd\onedrive\desktop\escola\1ºano\programaçãoi\projeto\funcoes_estudantes.h
+
+1598037843 source:c:\users\nerdd\onedrive\desktop\escola\1ºano\programaçãoi\projeto\funcoes_auxiliares.c
+	<stdio.h>
+	<string.h>
+	"funcoes_auxiliares.h"
+
+1597751253 c:\users\nerdd\onedrive\desktop\escola\1ºano\programaçãoi\projeto\estruturas.h
+
